@@ -1,5 +1,5 @@
 ---
-layout: defaultgi
+layout: default
 title: O que levar para um alojamento novo?
 ---
 

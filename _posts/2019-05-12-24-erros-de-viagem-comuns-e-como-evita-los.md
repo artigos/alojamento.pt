@@ -1,5 +1,5 @@
 ---
-layout: defaultgi
+layout: default
 title: 24 erros de viagem comuns e como evitá-los
 ---
 
