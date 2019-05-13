@@ -41,21 +41,21 @@ Quantos tipos de alojamento é que realmente existem? Não sabemos exatamente, m
 
 **Casa na árvore** – Normalmente concebida para propósitos recreacionais, uma casa na árvore, ou treehouse, é uma estrutura construída ou colocada entre os galhos de uma árvore.
 
-**Apartamento** – Também conhecido como flat (British), um apartamento é uma unidade de acomodação autónoma num edifício que contém um numero de tais unidades.
+**Apartamento** – Também conhecido como flat (British), um apartamento é uma unidade de alojamento autónoma num edifício que contém um numero de tais unidades.
 
 **Hotel de Gelo** – Um hotel de gelo é um hotel não permanente construído a partir de gelo e neve em áreas com temperaturas abaixo do grau de congelamento.
 
-**Acampamento** – Um conjunto de tendas, cabanas ou outras estruturas temporárias utilizadas por viajantes para se acomodarem.
+**Acampamento** – Um conjunto de tendas, cabanas ou outras estruturas temporárias utilizadas por viajantes para se alojarem.
 
-**Hotel Pop Up** – Um novo tipo de alojamento, os hotéis pop up são estabelecimentos de acomodação temporários, normalmente criados para eventos específicos.
+**Hotel Pop Up** – Um novo tipo de alojamento, os hotéis pop up são estabelecimentos de alojamento temporários, normalmente criados para eventos específicos.
 
 **Palazzo** – Apesar de normalmente traduzido para palácio, a palavra palazzo tem um significado mais extenso em Itália. Pode ser qualquer coisa desde um bloco de apartamentos a uma casa de uma família nobre ou um hotel histórico. De um ponto de vista arquitetónico, no entanto, palazzo descreve um edifício grande e imponente cujo estilo pertence ao renascimento. 
 
 **Palazzina** – A versão diminuída de palazzo, palazzina representa uma casa suburbana de múltiplos andares ou um prédio de apartamentos.
 
-**Bed and Breakfast** - Um Bed and Breakfast (B&B) é um estabelecimento de acomodação intima e independente, onde o pequeno almoço está incluído no preço do quarto.
+**Bed and Breakfast** - Um Bed and Breakfast (B&B) é um estabelecimento de alojamento intima e independente, onde o pequeno almoço está incluído no preço do quarto.
 
-**Pensão** – Um estabelecimento pequeno que oferece acomodação ao longo da noite, comida e bebida aos viajantes.
+**Pensão** – Um estabelecimento pequeno que oferece alojamento ao longo da noite, comida e bebida aos viajantes.
 
 **Finca** – Uma propriedade rural Espanhola, normalmente caracterizada pela sua arquitetura tradicional e herança agrícola. 
 
@@ -73,9 +73,9 @@ Quantos tipos de alojamento é que realmente existem? Não sabemos exatamente, m
 
 **Tenda** – Utilizada ao ar livre, uma tenda é um abrigo portável feita de fabrico e suportada por uma armação ou estacas.
 
-**Cúpula** – Um cúpula é uma cobertura ou edifício de forma hemisférica. Muitos dos hotéis sustentáveis de hoje em dia oferecem acomodações confortáveis em coberturas eco amigáveis feitas de vidro, madeira, neve, ou outros materiais
+**Cúpula** – Um cúpula é uma cobertura ou edifício de forma hemisférica. Muitos dos hotéis sustentáveis de hoje em dia oferecem alojamentos confortáveis em coberturas eco amigáveis feitas de vidro, madeira, neve, ou outros materiais
 
-**Pod** – Em termos de alojamento, um pod é uma estrutura isolada pré-fabricada que providencia acomodação básica.
+**Pod** – Em termos de alojamento, um pod é uma estrutura isolada pré-fabricada que providencia alojamento básico.
 
 **Masseria** – Uma masseria é uma quinta grande e fortificada típica do Sul de Itália, especialmente na região de Puglia. Construídas em quintas, a maior parte destas casas do campo foram transformadas em B&B rústicos, casas de férias autossuficientes, e mesmo hotéis de luxo. Devido ao grande número de masserias, a área costeira entre Bari e Brindisi é às vezes referida como a “costa Masseria”.
 
@@ -85,7 +85,7 @@ Quantos tipos de alojamento é que realmente existem? Não sabemos exatamente, m
 
 **RV** – Normalmente usado para viajar, um RV é um veículo recreacional preparado com as comodidades encontradas numa casa, incluindo casa de banho, cozinha, e sítios para dormir. Dependendo da região, os RVs são também chamados de caravanas, vans de campismo ou autocaravanas.
 
-**Castelo** – Um edifício fortificado ou conjunto de edifícios construídos ao longo da Europa e Médio Oriente durante o período medieval. Os “Hotéis Castelo” oferecem acomodações de estilo real em ambientes históricos sumptuosos.
+**Castelo** – Um edifício fortificado ou conjunto de edifícios construídos ao longo da Europa e Médio Oriente durante o período medieval. Os “Hotéis Castelo” oferecem alojamentos de estilo real em ambientes históricos sumptuosos.
 
 **Palácio** – Ao contrário dos castelos, os palácios não são fortificados, mas são na mesma residências reais caracterizadas pelo nível excecional de grandeza. Alguns dos palácios mais espetaculares convertidos em hotéis de luxo podem ser encontrados ao longo da Ásia e Europa, especialmente na India e Itália.
 
@@ -107,11 +107,11 @@ Quantos tipos de alojamento é que realmente existem? Não sabemos exatamente, m
 
 **Hotel de Negócios** – Servindo principalmente para viajantes de negócios, os hotéis de negócios estão estrategicamente localizados (centro da cidade, em distritos de negócios, ou perto dos maiores centros de negócios) e vêm equipados com instalações corporativas, tal como salas de conferências, acesso à internet, e opções de catering.
 
-**Hotel de Design** – Um hotel de design é um hotel íntimo e estiloso que enfatiza no design, serviço, e acomodações de luxo. Os seus quartos são delicadamente decorados e normalmente com recurso aos equipamentos de tecnologia mais recentes.
+**Hotel de Design** – Um hotel de design é um hotel íntimo e estiloso que enfatiza no design, serviço, e alojamentos de luxo. Os seus quartos são delicadamente decorados e normalmente com recurso aos equipamentos de tecnologia mais recentes.
 
 **Hacienda** – O termo hacienda é utilizado para descrever um rancho ou uma casa principal numa propriedade de terra em países de língua Espanhola.
 
-**Eco Hotel** – Um Eco hotel é uma acomodação amiga do ambiente destinada a promover o turismo sustentável e a vivência verde através do uso de fontes de energia renováveis, materiais recicláveis, e produção local orgânica. A sua filosofia consiste em minimizar o impacto no ambiente.
+**Eco Hotel** – Um Eco hotel é um alojamento amigo do ambiente destinado a promover o turismo sustentável e a vivência verde através do uso de fontes de energia renováveis, materiais recicláveis, e produção local orgânica. A sua filosofia consiste em minimizar o impacto no ambiente.
 
 **Hotel Cápsula** – Um grande êxito no Japão, o hotel cápsula é um tipo de hotel único que normalmente providencia alojamento barato e básico durante a noite em várias salas funcionais muito pequenas chamadas “cápsulas”.
 
