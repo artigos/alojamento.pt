@@ -4,6 +4,11 @@
 
   <div class="header-banner-large">
     {% include adsense.html %}
+    <a href="https://www.booking.com/s/11_6/66469c4d"
+      ><img style="border: 1px dashed blue; padding: 10px" src="{{
+        "/assets/15euros.jpg" | absolute_url
+      }}" /></a
+    >
   </div>
 
   <div class="header-banner-small">
@@ -14,8 +19,9 @@
 
   <ul class="index" markdown="0">
     {% for post in site.posts %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
     {% endfor %}
   </ul>
-  
 </header>
